@@ -80,7 +80,7 @@ public class LoginTest extends Base{
 		
 		Object[][] invalidLoginData = {
 								{"first@gmail.com","FirstPassword@123"},
-								{"second_account@gmail.com","SecondPassword@123"},
+								{"second@gmail.com","SecondPassword@123"},
 								};
 		return invalidLoginData;
 	}
