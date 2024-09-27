@@ -1,0 +1,15 @@
+# Ignore IDE-specific files
+/.idea
+*.iml
+
+# Ignore Maven and Gradle folders
+/target
+/.mvn
+/.gradle
+
+# Ignore build results
+*.class
+
+# Ignore system-specific files
+*.log
+*.DS_Store
